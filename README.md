@@ -1,5 +1,7 @@
 # React JS NASA APOD Starter Project
 
+Note : This project was borrowed from my other repository, [available here](https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/ReactJSForStudents/StarterNASAAPODReactJS)
+
 This is a simple starer project.
 
 Showcases the following concepts
@@ -28,7 +30,6 @@ Showcases the following concepts
 1. I am not great shakes in front end. This wont help you land an awesome front end job. However, it will help you with your internship, or perhaps, your first job. 
 1. Also look at [addnewcomponents.md](addnewcomponents.md).
 1. This project is a 'extraced' out of my other project, that shows how to consume APIs with Authentication along with OAuth2 Auth0.
-
 
 # References
 

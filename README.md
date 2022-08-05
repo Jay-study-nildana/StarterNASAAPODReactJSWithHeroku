@@ -2,6 +2,10 @@
 
 Note : This project was borrowed from my other repository, [available here](https://github.com/Jay-study-nildana/FrontEndForStudents/tree/main/ReactJSForStudents/StarterNASAAPODReactJS)
 
+Running here : https://starternasaapodreactjs.herokuapp.com/
+
+Blog Post here : https://medium.com/p/3bf449fbe834
+
 This is a simple starer project.
 
 Showcases the following concepts
